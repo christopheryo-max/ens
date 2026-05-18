@@ -494,7 +494,7 @@ GCD-20264,Active,Jabodetabek
 GCD-13624,Active,Bandung
 GCD-20258,Active,Surabaya
 GCD-2454,Active,Jabodetabek
-GCD-12861,Frozen,Bali
+GCD-12861,Blacklisted,Bali
 GCD-12043,Blacklisted,Bandung
 GCD-20248,Active,Bandung
 GCD-10786,Blacklisted,Bandung
@@ -1382,7 +1382,7 @@ GCD-21042,Active,Jabodetabek
 GCD-21059,Active,Semarang
 GCD-12871,Active,Palembang
 GCD-8677,Active,Jabodetabek
-GCD-21045,Active,Jabodetabek
+GCD-21045,Frozen,Jabodetabek
 GCD-21061,Active,Jabodetabek
 GCD-21064,Active,Jabodetabek
 GCD-21029,Active,Jabodetabek
@@ -1561,7 +1561,7 @@ GCD-5439,Blacklisted,Semarang
 GCD-25178,Blacklisted,Jabodetabek
 GCD-5236,Active,Palembang
 GCD-25037,Blacklisted,Jabodetabek
-GCD-12861,Frozen,Bali
+GCD-12861,Blacklisted,Bali
 GCD-21150,Active,Surabaya
 GCD-25034,Blacklisted,Surabaya
 GCD-20090,Active,Jabodetabek
@@ -2087,7 +2087,7 @@ GCD-25604,Active,Jabodetabek
 GCD-13370,Active,Jabodetabek
 GCD-3995,Active,Jabodetabek
 GCD-25479,Active,Jabodetabek
-GCD-25657,Frozen,Bali
+GCD-25657,Blacklisted,Bali
 GCD-21128,Active,Jabodetabek
 GCD-20171,Active,Surabaya
 GCD-3364,Active,Jabodetabek
@@ -2119,7 +2119,7 @@ GCD-20446,Active,Yogyakarta
 GCD-25067,Active,Jabodetabek
 GCD-21058,Blacklisted,Jabodetabek
 GCD-17469,Active,Yogyakarta
-GCD-21045,Active,Jabodetabek
+GCD-21045,Frozen,Jabodetabek
 GCD-13507,Frozen,Jabodetabek
 GCD-17090,Frozen,Jabodetabek
 GCD-25363,Active,Jabodetabek
@@ -2291,7 +2291,7 @@ GCD-1000121,Active,Jabodetabek
 GCD-25001,Active,Batam
 GCD-25114,Active,Jabodetabek
 GCD-20701,Active,Jabodetabek
-GCD-18187,Frozen,Bali
+GCD-18187,Blacklisted,Bali
 GCD-20065,Active,Jabodetabek
 GCD-20601,Active,Jabodetabek
 GCD-20612,Frozen,Jabodetabek
@@ -2352,7 +2352,7 @@ GCD-1000162,Active,Surabaya
 GCD-21056,Active,Surabaya
 GCD-25600,Active,Jabodetabek
 GCD-1000162,Active,Surabaya
-GCD-25657,Frozen,Bali
+GCD-25657,Blacklisted,Bali
 OX13042615035504351,Active,Bali
 GCD-20363,Active,Surabaya
 GCD-20946,Active,Jabodetabek
