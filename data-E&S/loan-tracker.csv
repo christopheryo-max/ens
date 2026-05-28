@@ -17848,7 +17848,7 @@ SFA20706,GCD-20132,Hrs Autocar,HRS Autocar (Jiyaad Rais Abd. Basid Husin) ,2026-
 SFA20705,GCD-17566,Amanah Auto,Amanah Auto Garage (ridwan mauda) ,2026-02-26,133196000,134000000,0.024,90,92,92,,Toyota Innova G Bensin 2.0 At 2014,F1580FI,Danabijak
 SFA20708,GCD-25043,Radja Mobilindo,Radja Mobilindo (Yulia Putri sari) ,2026-02-26,138600000,140000000,0.02,90,Closed,28,2026-03-25,Toyota Fortuner G 4X2 Luxury Trd 2.7 At 2012,BP1603JI,Danabijak
 SFA20690,GCD-25290,Bintang Motor Selatan,Bintang Motor Selatan (Muhamad Fachmy) ,2026-02-26,77220000,78000000,0.02,90,Closed,59,2026-04-25,Bmw X5 Awd E70 2008,B2471STE,Danabijak
-SFA20712,GCD-3470,Mutiara Mobilindo,Mutiara Mobilindo - Chusnul (Chusnul Fuad) ,2026-02-26,95535000,96500000,0.02,90,92,92,,Honda Brio Satya E 1.2 At 2018,B2284TVV,Danabijak
+SFA20712,GCD-3470,Mutiara Mobilindo,Mutiara Mobilindo - Chusnul (Chusnul Fuad) ,2026-02-26,95535000,96500000,0.02,90,Closed,92,2026-05-28,Honda Brio Satya E 1.2 At 2018,B2284TVV,Danabijak
 SFA20717,GCD-15733,Ranu Jaya Mobil,Ranu Jaya Mobil (Kukuh Wicaksono) ,2026-02-26,59400000,60000000,0.02,90,Closed,62,2026-04-28,Toyota Yaris G 1.5 At 2015,L1853KL,Danabijak
 SFA20713,GCD-25624,Owen Garage ,Owen Garage (Satrio Yuana Rachmadhani) ,2026-02-26,43065000,43500000,0.02,60,Closed,19,2026-03-16,Nissan Xtrail St 2.5 At 2011,B1350EYL,Danabijak
 SFA20720,GCD-271,Handy Autos,Handy Autos (HANDY RUMAISHA) ,2026-02-26,253720000,255000000,0.0245,90,92,92,,Land Rover Range Rover Sport V8 2006,B1985PL,BSS
@@ -18583,7 +18583,7 @@ SFA21585,GCD-20161,Kim Autocar,Kim Auto Car (Lukmanul Khaqim) ,2026-04-20,993340
 SFA21567,GCD-21128,Masdhi Jaya Motor,Masdhi Jaya Motor (Sutardi) ,2026-04-20,79179954,79800000,0.023,90,Closed,31,2026-05-20,Daihatsu Xenia R Family 1.3 Mt 2011,B1862JIA,Modalku
 SFA21575,GCD-18187,Sadarika Garage,Sadarika Garage (I Wayan Sadar SE) ,2026-04-20,84107000,84700000,0.023,90,39,39,,Suzuki Swift Gx 1.4 Mt 2014,DK1312ACD,Danabijak
 SFA21521,GCD-5323,Nafa Mobilindo,Nafa Mobilindo (achmad naqhib) ,2026-04-21,59334000,60000000,0.0245,90,38,38,,Nissan Grand Livina Xv 1.5 At 2013,B2603EVG,Modalku
-SFA21578,GCD-20790,GB Garage,GB Garage (BRIAN DWINA ASTUTI WIBOWO A.md) ,2026-04-21,134322500,135000000,0.023,90,Closed,9,2026-04-29,Honda Freed E 1.5 At 2013,L1070JS,Modalku
+SFA21578,GCD-20790,GB Garage,GB Garage (BRIAN DWINA ASTUTI WIBOWO A.md) ,2026-04-21,134322500,135000000,0.023,90,Closed,9,2026-04-29,Honda Freed E 1.5 At 2013,L1070JS,BSS
 SFA21581,GCD-19155,Gng Auto,GNG Auto (Dery Pernandy) ,2026-04-21,71768815,72250000,0.024,30,Closed,14,2026-05-04,Nissan March L 1.2 At 2015,A1743DQ,Modalku
 SFA21588,GCD-20777,Rumi Motor ,Rumi Motor (Odianto Adi Prakoso ) ,2026-04-21,109447500,110000000,0.023,90,38,38,,Toyota Avanza Veloz Vvt-I 1.5 Mt 2015,S1554LT,BSS
 SFA21586,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-04-21,104472500,105000000,0.0245,90,38,38,,Honda Mobilio E 1.5 At 2014,B1569URI,BSS
@@ -18627,7 +18627,7 @@ SFA21627,GCD-20899,Bintang Mobil,Bintang Mobil (M. Samsul Arifin) ,2026-04-23,81
 SFA21637,GCD-2670,INTI MOB,Inti Mob (Agus Budiawan) ,2026-04-23,109267301,110000000,0.024,90,36,36,,Honda Mobilio E 1.5 At 2014,B2793KVD,Modalku
 SFA21639,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-04-23,119400000,120000000,0.0245,90,36,36,,Honda Freed S 1.5 At 2013,DN1141IA,BSS
 SFA21640,GCD-4882,AA Mobil,AA Mobil (Ari Aji Setyawan) ,2026-04-23,117083140,118000000,0.023,90,36,36,,Honda Civic I-Vtec 1.8 At 2013,AD1883FA,Modalku
-SFA21635,GCD-16558,Tom's Garage,Tom's Garage (Yantomi Sandi) ,2026-04-23,67518433,68276300,0.02,30,36,36,,Honda Accord Vtil 2.4 At 2012,B2090SBB,Modalku
+SFA21635,GCD-16558,Tom's Garage,Tom's Garage (Yantomi Sandi) ,2026-04-23,67518433,68276300,0.02,30,Closed,36,2026-05-28,Honda Accord Vtil 2.4 At 2012,B2090SBB,Modalku
 SFA21643,GCD-17566,Amanah Auto,Amanah Auto Garage (ridwan mauda) ,2026-04-23,69580000,70000000,0.024,90,36,36,,Suzuki Ertiga Gx 1.4 At 2015,B1585WOA,Danabijak
 SFA21638,GCD-20901,CV Karunia Lancar Abadi,CV Karunia Lancar Abadi (Kevin Witarto) ,2026-04-23,34766900,35000000,0.024,90,36,36,,Nissan Serena Highway 2.0 At 2011,B1519TKV,Modalku
 SFA21636,GCD-9763,TSM Mobilindo Gatsu,PT. Tridatu Sejahtera Mobilindo - TSM Mobilindo (Endi Rahmat Septian) ,2026-04-24,172999900,172999900,0.0245,90,Closed,20,2026-05-13,Honda Hrv V Prestige 1.8 At 2016,DK1686OH,Modalku
@@ -18710,7 +18710,7 @@ SFA21743,GCD-25297,Gumbers Auto,CV Gumbers Auto (Nofi Adria) ,2026-04-29,7021190
 SFA21739,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-04-29,54633700,55000000,0.024,60,30,30,,Suzuki Splash Gl 1.2 Mt 2010,F1097LL,Modalku
 SFA21748,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-04-29,141290000,142000000,0.024,90,Closed,15,2026-05-13,Honda Brio Satya E 1.2 Mt 2023,S1821SI,BSS
 SFA21740,GCD-2670,INTI MOB,Inti Mob (Agus Budiawan) ,2026-04-29,109267301,110000000,0.024,90,30,30,,Toyota Calya G 1.2 At 2019,B2489SIP,Modalku
-SFA21745,GCD-19155,Gng Auto,GNG Auto (Dery Pernandy) ,2026-04-29,134100900,135000000,0.024,90,30,30,,Daihatsu Terios R Deluxe 1.5 At 2018,B2228TZE,Modalku
+SFA21745,GCD-19155,Gng Auto,GNG Auto (Dery Pernandy) ,2026-04-29,134100900,135000000,0.024,90,Closed,30,2026-05-28,Daihatsu Terios R Deluxe 1.5 At 2018,B2228TZE,Modalku
 SFA21744,GCD-20132,Hrs Autocar,HRS Autocar (Jiyaad Rais Abd. Basid Husin) ,2026-04-29,119067600,120000000,0.023,90,30,30,,Lexus Rx270 At 2011,L1009JF,Modalku
 SFA21749,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-04-29,149000901,150000000,0.024,60,30,30,,Toyota Alphard G 2.4 At 2011,F1633BG,Modalku
 SFA21752,GCD-25471,Sudarso Jaya Motor,Sudarso Jaya Motor  (Budi Anggoro Putro) ,2026-04-29,39556000,40000000,0.02,90,Closed,10,2026-05-08,Wuling Formo 1.2 Bv Mt 2020,B9107FCL,Modalku
@@ -18731,7 +18731,7 @@ SFA21761,GCD-16812,Garasi Auto,Garasi Auto (Rahmatullah Suhandi) ,2026-04-30,168
 SFA21764,GCD-20372,Garage 99,Garage 99 (Abdul Haqqi) ,2026-04-30,113240760,114000000,0.024,90,29,29,,Honda Jazz I-Vtec Rs 1.5 At 2012,N1036EAE,Modalku
 SFA21765,GCD-25044,Arkana Motor Klaten,Arkana Motor Klaten (Taufiq hidayanto) ,2026-04-30,79112000,80000000,0.02,90,29,29,,Toyota Avanza Vvt-I G 1.3 Mt 2011,B1573NKF,Modalku
 SFA21769,GCD-19371,Fam's Mobilindo ,Fam's Mobilindo (Lukmanul Hakim) ,2026-04-30,49445000,50000000,0.02,90,29,29,,Daihatsu Ayla X 1.2 At 2018,B2337TYD,Modalku
-SFA21767,GCD-2670,INTI MOB,Inti Mob (Agus Budiawan) ,2026-04-30,94367300,95000000,0.024,90,29,29,,Suzuki Apv Luxury R17 1.5 Mt 2014,B741DAA,Modalku
+SFA21767,GCD-2670,INTI MOB,Inti Mob (Agus Budiawan) ,2026-04-30,94367300,95000000,0.024,90,29,29,,Suzuki Apv Luxury R17 1.5 Mt 2014,B2883ZBB,Modalku
 SFA21768,GCD-21037,Family Autocar ,"Family Autocar (Moch Subhan Azis, SH) ",2026-04-30,96912200,98000000,0.02,90,Closed,16,2026-05-15,Wuling Confero 1.5 L Mt 2024,N1651GT,Modalku
 SFA21766,GCD-25469,Garasi Elite Mobilindo,Garasi Elite Mobilindo (FADEL MUHAMMAD) ,2026-04-30,39600000,40000000,0.02,90,29,29,,Nissan Nissan Livina 1.5 X-Gear A/T 2008,BP1890TW,Danabijak
 SFA21770,GCD-17566,Amanah Auto,Amanah Auto Garage (ridwan mauda) ,2026-04-30,179422038,180625000,0.024,30,29,29,,Honda Crv Turbo Prestige 1.5 At 2018,B2349UBR,Modalku
@@ -18744,7 +18744,7 @@ SFA21758,GCD-25207,Budi Jaya Mobil,Budi Jaya Mobil (Budi Sucahya) ,2026-05-04,93
 SFA21787,GCD-21100,Alghifari Autocar,Alghifari Auto Car (Annisa Fitriani) ,2026-05-04,99497500,100000000,0.0245,90,25,25,,Toyota Rush G 1.5 At 2013,F1509QY,BSS
 SFA21786,GCD-20919,Cahaya Motor,Cahaya Motor (Muhamad Romli) ,2026-05-04,138446000,140000000,0.02,90,25,25,,Toyota Raize Gr Sport 1.0 At 2021,M1405HW,Modalku
 SFA21774,GCD-19431,ARN Motor Cars,ARN Motorcars (Asep Saepul Rohman) ,2026-05-04,176814421,178000000,0.024,90,25,25,,Toyota Rush 1.5 S At 2019,B2852FMQ,Modalku
-SFA21775,GCD-25167,Autoraze Used Car,Autoraze Used Car (Ardimas Novan Pribadi) ,2026-05-04,88110000,89000000,0.02,90,Closed,8,2026-05-11,Nissan Juke Rx 1.5 At 2013,L1879O,Modalku
+SFA21775,GCD-25167,Autoraze Used Car,Autoraze Used Car (Ardimas Novan Pribadi) ,2026-05-04,88110000,89000000,0.02,90,Closed,8,2026-05-11,Nissan Juke Rx 1.5 At 2013,L1879O,Danabijak
 SFA21785,GCD-9865,Pime Motor,Pime Auto (Melissa Wong) ,2026-05-04,163089701,164000000,0.024,90,25,25,,Wuling Almaz 1.5 L T Lux Rs Pro 4X2 2021,L1193WA,Modalku
 SFA21788,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-05-04,214561440,216000000,0.024,90,Closed,12,2026-05-15,Toyota Innova V Diesel 2.5 At 2014,S1826TE,Modalku
 SFA21784,GCD-9865,Pime Motor,Pime Auto (Melissa Wong) ,2026-05-04,405735600,408000000,0.024,90,25,25,,Toyota Camry Hybrid 2.5 At 2021,L1811AAG,Modalku
@@ -18799,7 +18799,7 @@ SFA21827,GCD-13507,Rifadil Barokah Motor,Rifadil Barokah Motor (Heriyadi) ,2026-
 SFA21836,GCD-20446,Elite car,Elite Car (Rio Ferdiansyah) ,2026-05-07,200654680,202000000,0.024,90,22,22,,Cx-5 Cx5 2018,B1018ZMI,Modalku
 SFA21837,GCD-20446,Elite car,Elite Car (Rio Ferdiansyah) ,2026-05-07,48872328,49200000,0.024,60,22,22,,Honda Jazz Ge8 1.5 E At 2009 2009,B1094WVF,Modalku
 SFA21842,GCD-1000162,Fair Auto Car,Fair Autocar (Rizky rachman halim) ,2026-05-07,153279401,155000000,0.02,90,22,22,,Toyota Yaris Trd Sportivo 1.5 At 2018,S1435ZJ,Modalku
-SFA21843,GCD-19906,HD Cars,HD Car's (David Andherson Kuswari) ,2026-05-07,168113000,170000000,0.02,77,22,22,,Toyota Yaris Trd Sportivo 1.5 At 2019,B2158SIA,Modalku
+SFA21843,GCD-19906,HD Cars,HD Car's (David Andherson Kuswari) ,2026-05-07,168113000,170000000,0.02,77,22,22,,Toyota Yaris Trd Sportivo 1.5 At 2019,B2158SIA,Danabijak
 SFA21844,GCD-20790,GB Garage,GB Garage (BRIAN DWINA ASTUTI WIBOWO A.md) ,2026-05-07,128989900,130000000,0.023,90,22,22,,Honda Mobilio E Facelift 1.5 At 2017,W1670CJ,Modalku
 SFA21845,GCD-16579,Mobilku Laku,Mobilku Laku (Guruh Arya Wicaksana) ,2026-05-07,195859828,197173000,0.024,90,22,22,,Mitsubishi Pajero Dakar 4X2 2.5 At 2012,B1136XQ,Modalku
 SFA21850,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-05-07,124375000,125000000,0.0245,60,Closed,13,2026-05-19,Toyota Innova G Bensin 2.0 At 2013,F1745KF,BSS
@@ -18829,7 +18829,7 @@ SFA21871,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah So
 SFA21874,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-05-08,74500500,75000000,0.024,90,21,21,,Honda Elysion 3.0 L 2Wd At 2005,B2113FMP,Modalku
 SFA21883,GCD-20790,GB Garage,GB Garage (BRIAN DWINA ASTUTI WIBOWO A.md) ,2026-05-08,119067501,119999900,0.023,90,Closed,8,2026-05-15,Suzuki S-Presso Ags 1.0 Mt 2023,AD1541ED,Modalku
 SFA21878,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-05-08,74500500,75000000,0.024,90,21,21,,Nissan Evalia Xv 1.5 At 2012,B1434JVF,Modalku
-SFA21869,GCD-271,Handy Autos,Handy Autos (HANDY RUMAISHA) ,2026-05-09,64675000,65000000,0.0245,90,20,20,,Honda City Idsi At 2008,F1186MT,BSS
+SFA21869,GCD-271,Handy Autos,Handy Autos (HANDY RUMAISHA) ,2026-05-09,64675000,65000000,0.0245,68,20,20,,Honda City Idsi At 2008,F1186MT,BSS
 SFA21888,GCD-21128,Masdhi Jaya Motor,Masdhi Jaya Motor (Sutardi) ,2026-05-09,99223000,100000000,0.023,90,Closed,15,2026-05-23,Honda Crv 4X2 2.4 At 2011,B2124YS,Modalku
 SFA21891,GCD-18526,Prima Auto,Prima Auto (Aep Saepul Uyun) ,2026-05-09,117174000,118000000,0.023,90,20,20,,Daihatsu Xenia X 1.3 At 2017,F1581AN,Danabijak
 SFA21885,GCD-25492,AAA Mobil,AAA Mobil (Achmad Syafi'i) ,2026-05-09,130974360,132000000,0.023,90,20,20,,Toyota Avanza G 1.3 Mt 2017,L1281BY,Modalku
@@ -18842,7 +18842,7 @@ SFA21877,GCD-21072,PT Hiliran Gumanti,PT Hiliran Gumati (Yesinovianty) ,2026-05-
 SFA21889,GCD-20565,Himalaya Auto,Himalaya Auto (Mohamad Ridwan Rafiif) ,2026-05-11,108778901,110000000,0.02,90,Closed,3,2026-05-13,Marcedes Benz Mercy C250 Cgi At 2010,B2799FH,Modalku
 SFA21887,GCD-20565,Himalaya Auto,Himalaya Auto (Mohamad Ridwan Rafiif) ,2026-05-11,64278500,65000000,0.02,90,Closed,8,2026-05-18,Marcedes Benz Mercy C200 Cgi At 2010,B1132ZES,Modalku
 SFA21898,GCD-20602,Rosita Motor Bogor,Rosita Motor Bogor (Mohammad Ito) ,2026-05-11,55378400,56000000,0.02,90,Closed,15,2026-05-25,Daihatsu Terios Tx At 2009,B1612KMV,Modalku
-SFA21880,GCD-25166,Redika Mobilindo,Redika Mobilindo (Sri Widarti) ,2026-05-11,182946500,185000000,0.0245,90,18,18,,Honda Hrv E Plus Cvt 2020,BP1768FG,Modalku
+SFA21880,GCD-25166,Redika Mobilindo,Redika Mobilindo (Sri Widarti) ,2026-05-11,182946500,185000000,0.02,90,18,18,,Honda Hrv E Plus Cvt 2020,BP1768FG,Modalku
 SFA21864,GCD-21127,Tubanan Baru Motor,TUBANAN BARU MOTOR (Marmin) ,2026-05-11,59334000,60000000,0.02,90,18,18,,Toyota Avanza 1.3 G Mt 2008,L1196XK,Modalku
 SFA21899,GCD-20872,Mobil Bekas Bogor,Mobil Bekas Bogor (Adi Barzanzi) ,2026-05-11,78123100,79000000,0.02,90,18,18,,Mazda 2 Hatchback R 1.5 At 2012,F1080CK,Modalku
 SFA21902,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-05-11,71520480,72000000,0.024,90,18,18,,Daihatsu Terios 1.5 Tx A/T 2008,L1164OE,Modalku
@@ -18926,7 +18926,7 @@ SFA21943,GCD-3364,Rahayu Oto,Rahayu Oto (Stephen F Helbig) ,2026-05-18,127579900
 SFA21987,GCD-271,Handy Autos,Handy Autos (HANDY RUMAISHA) ,2026-05-18,63616000,64000000,0.024,60,11,11,,Hyundai H1 2.4 At 2012,B1984WMQ,Danabijak
 SFA21997,GCD-9324,Mobil 128,,2026-05-18,124028750,125000000,0.023,90,11,11,,Nissan Xtrail 2.5 At 2014,B2023FYQ,Modalku
 SFA21986,GCD-3364,Rahayu Oto,Rahayu Oto (Stephen F Helbig) ,2026-05-18,140675850,141525000,0.024,30,11,11,,Toyota Hilux 2.4 G 4X4 2017,BM8421DL,Danabijak
-SFA21999,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-05-18,238800000,240000000,0.0245,90,11,11,,Toyota Innova G Diesel 2.4 At 2016,L1905RT,BSS
+SFA21999,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-05-18,238800000,240000000,0.0245,90,Closed,11,2026-05-28,Toyota Innova G Diesel 2.4 At 2016,L1905RT,BSS
 SFA22001,GCD-20962,Bima Auto,Bima Auto (Taufik Rachman) ,2026-05-18,97901001,98999900,0.02,90,11,11,,Honda Odyssey 2.4 At 2010,B1001UKH,Modalku
 SFA22000,GCD-20803,Begja Mobil,Begja Mobil (Andi Wicaksono) ,2026-05-18,108778901,109999900,0.0245,90,11,11,,Honda Brio Rs 1.2 At 2019,AA1125MJ,Modalku
 SFA22002,GCD-20171,Rayyan Mobil,Rayyan Mobil (Roiyanto) ,2026-05-18,236150740,238000000,0.023,90,11,11,,Honda Crz 1.5 Cvt 2015,B2420JBA,Modalku
@@ -18995,7 +18995,7 @@ SFA22079,GCD-25167,Autoraze Used Car,Autoraze Used Car (Ardimas Novan Pribadi) ,
 SFA22078,GCD-20312,Garasi Mobil,Garasi Mobil (Achmad arkanul islam) ,2026-05-22,98890000,100000000,0.0245,90,7,7,,Honda Accord Vtil At 2013,W1890QK,Modalku
 SFA22081,GCD-18576,Akdesina Jaya Motor,AKDESINA JAYA MOTOR  (Yodi Akdesina) ,2026-05-23,54389500,55000000,0.02,90,6,6,,Daihatsu Ayla X 1.0 At 2013,B1330CYG,Modalku
 SFA22077,GCD-20777,Rumi Motor ,Rumi Motor (Odianto Adi Prakoso ) ,2026-05-23,55720000,56000000,0.0245,30,6,6,,Nissan Grand Livina Xv 1.5 At 2013,H1073MO,BSS
-SFA22082,GCD-20565,Himalaya Auto,Himalaya Auto (Mohamad Ridwan Rafiif) ,2026-05-23,98890000,100000000,0.02,90,6,6,,Mercedes Benz C200 Cgi At 2012,B1608PAE,Modalku
+SFA22082,GCD-20565,Himalaya Auto,Himalaya Auto (Mohamad Ridwan Rafiif) ,2026-05-23,98890000,100000000,0.02,90,Closed,6,2026-05-28,Mercedes Benz C200 Cgi At 2012,B1608PAE,Modalku
 SFA22084,GCD-16579,Mobilku Laku,Mobilku Laku (Guruh Arya Wicaksana) ,2026-05-23,128140860,129000000,0.024,90,6,6,,Wuling Almaz 1.5 S+ Turbo 4X2 Mt 2021,B2258NQ,Modalku
 SFA22086,GCD-25207,Budi Jaya Mobil,Budi Jaya Mobil (Budi Sucahya) ,2026-05-24,88605440,89600000,0.02,90,5,5,,Daihatsu Sigra M 1.0 Mt 2022,W1961SX,Modalku
 SFA22054,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-05-25,89550000,90000000,0.0245,90,4,4,,Honda City E At 2009,B1589KBD,BSS
@@ -19034,7 +19034,7 @@ SFA22127,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-05-26
 SFA22121,GCD-18526,Prima Auto,Prima Auto (Aep Saepul Uyun) ,2026-05-26,87291434,87975000,0.023,30,3,3,,Volkswagen Polo 1.2 Gt Tsi At 2015,F1346NF,Danabijak
 SFA22135,GCD-20444,Garage Darell NR ,Garage Darell NR (Rian Hananto) ,2026-05-26,177695441,179690000,0.02,90,3,3,,Daihatsu Rocky X 1.2 Mt 2024,AA1485DK,Modalku
 SFA22136,GCD-20446,Elite car,Elite Car (Rio Ferdiansyah) ,2026-05-26,110865580,112000000,0.024,60,3,3,,Mazda 5 Grand Touring 2.5 L 2015,B1847KIC,Modalku
-SFA22128,GCD-25167,Autoraze Used Car,Autoraze Used Car (Ardimas Novan Pribadi) ,2026-05-26,53400600,55000000,0.02,90,3,3,,Toyota Agya E 1.0 Mt 2014,DK1388WG,Modalku
+SFA22128,GCD-25167,Autoraze Used Car,Autoraze Used Car (Ardimas Novan Pribadi) ,2026-05-26,53400600,54000000,0.02,90,3,3,,Toyota Agya E 1.0 Mt 2014,DK1388WG,Modalku
 SFA22129,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-05-26,109267400,110000000,0.024,90,3,3,,Toyota Innova G 2.0 At 2010,B1872OD,Modalku
 SFA22133,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-05-26,44700201,44999900,0.024,90,3,3,,Toyota Vios 1.5 G Mt 2004,F1197CQ,Modalku
 SFA22134,GCD-2819,Tm Mobilindo,TM Mobilindo (Deny Hamdani) ,2026-05-26,99334000,100000000,0.024,90,3,3,,Toyota Alphard X 2.4 At 2012,B2856BA,Modalku
