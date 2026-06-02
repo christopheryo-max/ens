@@ -18557,7 +18557,7 @@ SFA21550,GCD-16963,Mia motor,Mia Motor (M. Rezky ) ,2026-04-18,44994950,45500000
 SFA21558,GCD-20446,Elite car,Elite Car (Rio Ferdiansyah) ,2026-04-18,275155180,277000000,0.024,90,Closed,19,2026-05-06,Toyota Innova V Bensin 2.0 At 2022,N1262TY,Modalku
 SFA21541,GCD-21045,Gun's Auto,Gun's Auto (Muhamad Jen) ,2026-04-18,112734600,114000000,0.02,90,46,46,,Suzuki New Sx4 Sx4 S Cros Mt 2017,A1248ZS,Modalku
 SFA21551,GCD-25471,Sudarso Jaya Motor,Sudarso Jaya Motor  (Budi Anggoro Putro) ,2026-04-18,54450000,55000000,0.02,90,Closed,4,2026-04-21,Toyota Avanza Vvt-I G 1.3 Mt 2010,F1376HK,Modalku
-SFA21561,GCD-13262,Arsy autocar,Arsy Autocar (Muhammad Saroni) ,2026-04-18,94261850,95000000,0.023,90,46,46,,Toyota Agya G 1.2 Mt 2019,W1676VW,Modalku
+SFA21561,GCD-13262,Arsy autocar,Arsy Autocar (Muhammad Saroni) ,2026-04-18,94261850,95000000,0.023,90,Closed,46,2026-06-02,Toyota Agya G 1.2 Mt 2019,W1676VW,Modalku
 SFA21563,GCD-8966,Golden Car,"Golden Car (Agung Wibowo, SE) ",2026-04-18,85827895,86500000,0.023,90,Closed,33,2026-05-20,Honda Brio Satya E 1.2 At 2017,B2979SZJ,Modalku
 SFA21559,GCD-13262,Arsy autocar,Arsy Autocar (Muhammad Saroni) ,2026-04-19,98307000,99000000,0.023,90,45,45,,Honda Brio Satya E 1.2 Mt 2018,AG1345BV,Danabijak
 SFA21564,GCD-19830,Batigo Showroom,Batigo Showroom (Wempi Saputra) ,2026-04-19,79440000,80000000,0.023,90,Closed,27,2026-05-15,Daihatsu Sigra X Deluxe 1.2 At 2017,BP1827JR,Danabijak
@@ -19074,17 +19074,17 @@ SFA22169,GCD-21127,Tubanan Baru Motor,TUBANAN BARU MOTOR (Marmin) ,2026-05-30,73
 SFA22173,GCD-12471,Arrayan Motor,Arrayan Motor (Usup Supardi) ,2026-05-30,50107515,50499900,0.023,90,4,4,,Toyota Avanza 1.3 G Mt 2009,B1843BFN,Modalku
 SFA22174,GCD-12471,Arrayan Motor,Arrayan Motor (Usup Supardi) ,2026-05-30,64494950,65000000,0.023,90,4,4,,Toyota Calya G 1.2 Mt 2017,F1838PK,Modalku
 SFA22166,GCD-20790,GB Garage,GB Garage (BRIAN DWINA ASTUTI WIBOWO A.md) ,2026-05-30,156215000,157000000,0.0245,90,4,4,,Toyota Yaris E 1.5 At 2018,L1679CAQ,BSS
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+SFA22167,GCD-25457,Anugrah Mandiri Automobile,Anugrah Mandiri Automobile (Arwan Tisna Oka Moecharom S. Hut) ,2026-06-02,65358997,65800000,0.024,90,1,1,,Wuling Confero S 1.5 Mt 2017,AA1449TJ,Modalku
+SFA22176,GCD-25457,Anugrah Mandiri Automobile,Anugrah Mandiri Automobile (Arwan Tisna Oka Moecharom S. Hut) ,2026-06-02,84431125,85000000,0.02,90,1,1,,Honda Jazz I-Vtec S 1.5 Mt 2010,AD1240UI,Modalku
+SFA22172,GCD-25457,Anugrah Mandiri Automobile,Anugrah Mandiri Automobile (Arwan Tisna Oka Moecharom S. Hut) ,2026-06-02,178798425,180000000,0.02,90,1,1,,Honda Hrv 1.5 Tipe E Cvt Ckd 2018,AB1200JJ,Modalku
+SFA22181,GCD-25291,Givi Auto Car,Givi Auto Car (Muchammad Luthfi) ,2026-06-02,148335000,150000000,0.02,51,1,1,,Toyota Corolla V 1.8 At 2014,B1931EDZ,Modalku
+SFA22180,GCD-20790,GB Garage,GB Garage (BRIAN DWINA ASTUTI WIBOWO A.md) ,2026-06-02,87313465,88000000,0.023,90,1,1,,Nissan Grand Livina Xv 1.5 At 2015,B1624JUJ,Modalku
+SFA22183,GCD-2670,INTI MOB,Inti Mob (Agus Budiawan) ,2026-06-02,100327340,101000000,0.024,90,1,1,,Honda Crv 4X2 2.0 At 2011,B1922WCQ,Modalku
+SFA22185,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-06-02,119198025,120000000,0.024,90,1,1,,Toyota Avanza Facelift G 1.3 Mt 2019,L1186GR,Modalku
+SFA22184,GCD-20962,Bima Auto,Bima Auto (Taufik Rachman) ,2026-06-02,56367300,57000000,0.02,90,1,1,,Nissan Grand Livina Xv 1.5 At 2013,D1192YTH,Modalku
+SFA22188,GCD-19514,Kevin Motor ,Kevin Motor (Fitriono) ,2026-06-02,102313921,103000000,0.024,90,1,1,,Toyota Rush S 1.5 At 2013,B2240TGU,Modalku
+SFA22187,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-06-02,92380620,93000000,0.024,90,1,1,,Honda Freed I-Vtec Power Sliding Doors 1.5 At 2010,W1523AO,Modalku
+SFA22194,GCD-19155,Gng Auto,GNG Auto (Dery Pernandy) ,2026-06-02,79467200,80000000,0.024,90,1,1,,Honda Brio Satya E 1.2 At 2014,B1030URI,Modalku
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
