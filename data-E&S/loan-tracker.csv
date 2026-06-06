@@ -17952,7 +17952,7 @@ SFA20835,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-03-04
 SFA20844,GCD-20252,Logos Auto Show,Logos Auto Show (Andreas Bangun Wibawa Msi) ,2026-03-04,148334901,149999900,0.02,90,Closed,15,2026-03-18,Toyota Rush Gr 1.5 At 2022,B2792KIF,Modalku
 SFA20836,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-03-04,99400000,100000000,0.024,90,Closed,77,2026-05-19,Suzuki Swift Gl 1.4 At 2013,B1525BYQ,Danabijak
 SFA20840,GCD-20881,CV Gasken Mobilindo ,CV GASKEN MOBILINDO (Sandi Armando ) ,2026-03-04,132069000,133000000,0.023,90,95,95,,Toyota Calya G 1.2 At 2023,BP1815GF,Danabijak
-SFA20845,GCD-21072,PT Hiliran Gumanti,PT Hiliran Gumati (Yesinovianty) ,2026-03-04,64152000,64800000,0.02,90,95,95,,Daihatsu Xenia R 1.3 At 2011,BP1387EH,Danabijak
+SFA20845,GCD-21072,PT Hiliran Gumanti,PT Hiliran Gumati (Yesinovianty) ,2026-03-04,64152000,64800000,0.02,90,Closed,95,2026-06-06,Daihatsu Xenia R 1.3 At 2011,BP1387EH,Danabijak
 SFA20832,GCD-4264,Zio Auto Car,Zio Autocars (Yusron Tri Atmojo) ,2026-03-04,120037000,121250000,0.02,90,95,95,,Toyota Innova G Bensin 2.0 At 2012,F1108HV,Danabijak
 SFA20751,GCD-25083,CV Anugrah Ilmu,CV. Anugrah Ilmu (Hendra saputra) ,2026-03-05,59334000,60000000,0.02,90,94,94,,Nissan Xtrail Xt 2.5 At 2011,A1654KV,Modalku
 SFA20841,GCD-17369,Fenix Auto Car,Fenix Autocars (Fendy Rico Sujono) ,2026-03-05,177807860,179000000,0.024,90,Closed,91,2026-06-03,Mitsubishi Outlander Px 2.0 At 2017,B1033SJS,Modalku
@@ -19132,17 +19132,17 @@ SFA22253,GCD-17566,Amanah Auto,Amanah Auto Garage (ridwan mauda) ,2026-06-05,102
 SFA22264,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-06-05,59600400,60000000,0.024,90,2,2,,Daihatsu Ayla X 1.0 Mt 2013,B1576SYK,Modalku
 SFA22262,GCD-20565,Himalaya Auto,Himalaya Auto (Mohamad Ridwan Rafiif) ,2026-06-05,136468200,138000000,0.02,90,2,2,,Hyundai Santa Fe 2.4 At 2017,B1256SJV,Modalku
 SFA22263,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-06-05,111750750,112500000,0.024,60,2,2,,Toyota Sienta Q 1.5 At 2018,F1866VS,Modalku
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+SFA22258,GCD-20132,Hrs Autocar,HRS Autocar (Jiyaad Rais Abd. Basid Husin) ,2026-06-06,104184150,105000000,0.023,90,1,1,,Toyota Nav1 V 2.0 At 2013,DK1378QO,Modalku
+SFA22252,GCD-21032,OB Mobilindo ,OB Mobilindo (Obing Mobil) (Tobiatna subandi) ,2026-06-06,108778901,109999900,0.02,60,1,1,,Mitsubishi Pajero Sport Dakar 4X2 2.4 At 2017,F1259MW,Modalku
+SFA22250,GCD-20132,Hrs Autocar,HRS Autocar (Jiyaad Rais Abd. Basid Husin) ,2026-06-06,168679100,170000000,0.023,90,1,1,,Toyota Alphard X 2.4 At 2013,L1863BDD,Modalku
+SFA22266,GCD-21072,PT Hiliran Gumanti,PT Hiliran Gumati (Yesinovianty) ,2026-06-06,62795150,63500000,0.02,90,1,1,,Nissan Juke 1.5 At 2011,BP1523ED,Modalku
+SFA22269,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-06-06,72513820,73000000,0.024,60,1,1,,Daihatsu Sirion 1.3 At 2013,B1857ZMD,Modalku
+SFA22275,GCD-25668,JS Motor,JS MOTOR - Tangerang (Johani Adriawan) ,2026-06-06,257979800,260000000,0.023,90,1,1,,Toyota Yaris Yaris Cross Hybrid 1.5 S Hv Cvt Tss 2023,A1117VV,Modalku
+SFA22273,GCD-16186,Cipta Jaya Makmur,Cipta Jaya Makmur (Esi Larasati) ,2026-06-06,45693640,46000000,0.024,90,1,1,,Daihatsu Xenia Xi Deluxe + 2006,S1610PZ,Modalku
+SFA22278,GCD-25457,Anugrah Mandiri Automobile,Anugrah Mandiri Automobile (Arwan Tisna Oka Moecharom S. Hut) ,2026-06-06,129134200,130000000,0.024,90,1,1,,Toyota Rush S 1.5 At 2015,AB1736LD,Modalku
+SFA22274,GCD-271,Handy Autos,Handy Autos (HANDY RUMAISHA) ,2026-06-06,139067600,140000000,0.024,90,1,1,,Audi Q7 3.0 At 2011,B2320SMC,Modalku
+SFA22265,GCD-21072,PT Hiliran Gumanti,PT Hiliran Gumati (Yesinovianty) ,2026-06-06,84056500,85000000,0.02,90,1,1,,Toyota Avanza Veloz Vvt-I 1.5 At 2013,BP1493AE,Modalku
+SFA22272,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-06-06,72513820,73000000,0.024,90,1,1,,Nissan Elgrand 2.5 2Wd At 2006,D1459QO,Modalku
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
