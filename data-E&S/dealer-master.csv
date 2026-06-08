@@ -265,7 +265,7 @@ GCD-19218,Active,Jabodetabek
 GCD-19149,Active,Jabodetabek
 GCD-19882,Active,Jabodetabek
 GCD-14822,Active,Jabodetabek
-GCD-17566,Active,Jabodetabek
+GCD-17566,Frozen,Jabodetabek
 GCD-13323,Active,Jabodetabek
 GCD-3590,Blacklisted,Jabodetabek
 GCD-5880,Active,Jabodetabek
@@ -1152,7 +1152,7 @@ GCD-12949,Active,Yogyakarta
 GCD-20690,Active,Palembang
 GCD-20840,Active,Pekanbaru
 GCD-20570,Active,Jabodetabek
-GCD-20899,Active,Surabaya
+GCD-20899,Frozen,Surabaya
 GCD-20648,Blacklisted,Jabodetabek
 GCD-20901,Active,Surabaya
 GCD-20599,Blacklisted,Surabaya
@@ -1481,7 +1481,7 @@ GCD-17090,Frozen,Jabodetabek
 GCD-21124,Blacklisted,Palembang
 OX09122417261002560,Active,Pekanbaru
 GCD-21131,Active,Surabaya
-GCD-21138,Frozen,Jabodetabek
+GCD-21138,Blacklisted,Jabodetabek
 GCD-20602,Active,Jabodetabek
 GCD-7829,Blacklisted,Semarang
 GCD-2158,Active,Jabodetabek
@@ -1654,7 +1654,7 @@ GCD-25097,Blacklisted,Medan
 GCD-20106,Active,Jabodetabek
 GCD-25132,Blacklisted,Jabodetabek
 GCD-20499,Active,Surabaya
-GCD-25083,Frozen,Jabodetabek
+GCD-25083,Blacklisted,Jabodetabek
 GCD-25100,Active,Jabodetabek
 OX05022515244203086,Active,Surabaya
 GCD-25128,Blacklisted,Jabodetabek
@@ -2058,7 +2058,7 @@ GCD-19424,Active,Jabodetabek
 GCD-25303,Blacklisted,Semarang
 GCD-25415,Active,Semarang
 GCD-20901,Active,Surabaya
-GCD-20899,Active,Surabaya
+GCD-20899,Frozen,Surabaya
 GCD-20045,Active,Surabaya
 GCD-16558,Blacklisted,Jabodetabek
 GCD-20285,Active,Semarang
@@ -2107,7 +2107,7 @@ GCD-21079,Frozen,Surabaya
 GCD-25605,Active,Semarang
 GCD-25543,Blacklisted,Batam
 GCD-17255,Blacklisted,Surabaya
-GCD-21138,Frozen,Jabodetabek
+GCD-21138,Blacklisted,Jabodetabek
 GCD-12471,Active,Jabodetabek
 GCD-25182,Blacklisted,Jabodetabek
 GCD-6854,Active,Jabodetabek
@@ -2158,7 +2158,7 @@ GCD-25378,Blacklisted,Jabodetabek
 GCD-3736,Active,Jabodetabek
 GCD-19431,Active,Jabodetabek
 GCD-25287,Blacklisted,Jabodetabek
-GCD-17566,Active,Jabodetabek
+GCD-17566,Frozen,Jabodetabek
 GCD-19830,Blacklisted,Batam
 GCD-18933,Active,Surabaya
 GCD-20928,Active,Semarang
