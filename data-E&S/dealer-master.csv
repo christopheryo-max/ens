@@ -1418,7 +1418,7 @@ GCD-20154,Blacklisted,Surabaya
 GCD-21111,Blacklisted,Pekanbaru
 GCD-21036,Blacklisted,Jabodetabek
 GCD-7435,Blacklisted,Jabodetabek
-GCD-21086,Active,Batam
+GCD-21086,Frozen,Batam
 GCD-21082,Active,Medan
 GCD-21093,Blacklisted,Jabodetabek
 GCD-21079,Frozen,Surabaya
@@ -1938,7 +1938,7 @@ GCD-25448,Frozen,Pekanbaru
 GCD-25480,Active,Jabodetabek
 GCD-18853,Active,Palembang
 GCD-25496,Active,Medan
-GCD-8766,Frozen,Jabodetabek
+GCD-8766,Blacklisted,Jabodetabek
 GCD-25531,Active,Batam
 GCD-25469,Blacklisted,Batam
 GCD-25497,Frozen,Jabodetabek
@@ -2192,7 +2192,7 @@ GCD-20542,Active,Jabodetabek
 GCD-25608,Active,Surabaya
 GCD-25096,Active,Jabodetabek
 GCD-25597,Active,Jabodetabek
-GCD-21086,Active,Batam
+GCD-21086,Frozen,Batam
 GCD-21004,Blacklisted,Batam
 GCD-25510,Active,Jabodetabek
 GCD-20859,Active,Jabodetabek
@@ -2332,7 +2332,7 @@ GCD-4432,Active,Jabodetabek
 GCD-25492,Active,Surabaya
 GCD-25365,Active,Surabaya
 GCD-25379,Blacklisted,Batam
-GCD-8766,Frozen,Jabodetabek
+GCD-8766,Blacklisted,Jabodetabek
 GCD-13653,Active,Jabodetabek
 GCD-21072,Active,Batam
 GCD-13262,Blacklisted,Surabaya
