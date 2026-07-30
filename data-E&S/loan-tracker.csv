@@ -18731,7 +18731,7 @@ SFA21760,GCD-9324,Mobil 128,Mobil 128 (Piong edi effendi),2026-04-30,114106351,1
 SFA21761,GCD-16812,Garasi Auto,Garasi Auto (Rahmatullah Suhandi) ,2026-04-30,168867800,170000000,0.024,30,Closed,35,2026-06-03,Lexus Rx 200T Luxury At 2016,B2809PBS,Modalku
 SFA21762,GCD-25296,Wilda Jaya Motor,Wilda Jaya Motor (Arvid Prihardie) ,2026-04-30,42897394,43378900,0.02,30,Closed,31,2026-05-30,Honda Crv 4X2 2.4 At 2010,B1437TLQ,Modalku
 SFA21763,GCD-25291,Givi Auto Car,Givi Auto Car (Muchammad Luthfi) ,2026-04-30,207850500,209950000,0.02,30,Closed,30,2026-05-29,Mercedez Benz C250 2.0 W205 At 2015,B1243UER,Danabijak
-SFA21764,GCD-20372,Garage 99,Garage 99 (Abdul Haqqi) ,2026-04-30,113240760,114000000,0.024,90,92,92,,Honda Jazz I-Vtec Rs 1.5 At 2012,N1036EAE,Modalku
+SFA21764,GCD-20372,Garage 99,Garage 99 (Abdul Haqqi) ,2026-04-30,113240760,114000000,0.024,90,Closed,92,2026-07-30,Honda Jazz I-Vtec Rs 1.5 At 2012,N1036EAE,Modalku
 SFA21765,GCD-25044,Arkana Motor Klaten,Arkana Motor Klaten (Taufiq hidayanto) ,2026-04-30,79112000,80000000,0.02,90,Closed,31,2026-05-30,Toyota Avanza Vvt-I G 1.3 Mt 2011,B1573NKF,Modalku
 SFA21766,GCD-25469,Garasi Elite Mobilindo,Garasi Elite Mobilindo (FADEL MUHAMMAD) ,2026-04-30,39600000,40000000,0.02,90,Closed,40,2026-06-08,Nissan Nissan Livina 1.5 X-Gear A/T 2008,BP1890TW,Danabijak
 SFA21767,GCD-2670,INTI MOB,Inti Mob (Agus Budiawan) ,2026-04-30,94367300,95000000,0.024,90,Closed,54,2026-06-22,Suzuki Apv Luxury R17 1.5 Mt 2014,B2883ZBB,Modalku
@@ -19462,10 +19462,10 @@ SFA22748,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah So
 SFA22749,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-29,67162500,67500000,0.0245,90,2,2,,Suzuki Apv 1.5 Gx Mt 2008,B1788UFC,BSS
 SFA22750,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-07-29,62685000,63000000,0.0245,30,2,2,,Kia Picanto Se 1.2 At 2014,B1474JUH,BSS
 SFA22747,GCD-20171,Rayyan Mobil,Rayyan Mobil (Roiyanto) ,2026-07-29,119200800,120000000,0.024,90,2,2,,Honda Civic Fb2 1.8 At 2013,W1046PS,Modalku
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+SFA22754,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-07-30,26865000,27000000,0.0245,90,1,1,,Toyota Limo 1.5 Mt 2005,D1828VCH,BSS
+SFA22755,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-30,57710000,58000000,0.0245,90,1,1,,Ford Fiesta Trend 1.4 At 2012,F1036AK,BSS
+SFA22757,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-07-30,64675000,65000000,0.0245,90,1,1,,Nissan March L 1.2 At 2013,B1257FKL,BSS
+SFA22758,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-07-30,49667000,50000000,0.024,90,1,1,,Hyundai I20 Sg 1.4 Mt 2012,F1736CG,Modalku
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
