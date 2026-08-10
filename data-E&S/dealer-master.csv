@@ -1903,7 +1903,7 @@ GCD-25386,Active,Jabodetabek,2025-09-09
 GCD-25445,Blacklisted,Medan,2025-09-11
 GCD-25475,Active,Jabodetabek,2025-09-11
 GCD-15437,Active,Pekanbaru,2025-09-12
-GCD-25438,Frozen,Batam,2025-09-12
+GCD-25438,Blacklisted,Batam,2025-09-12
 GCD-25437,Blacklisted,Jabodetabek,2025-09-12
 GCD-25440,Blacklisted,Serang,2025-09-12
 GCD-13370,Active,Jabodetabek,2025-09-15
@@ -1949,7 +1949,7 @@ GCD-25507,Blacklisted,Batam,2025-09-30
 GCD-25676,Frozen,Batam,2025-09-30
 GCD-25494,Active,Semarang,2025-09-30
 OX03092517160604018,Active,Pekanbaru,2025-09-30
-GCD-25457,Active,Yogyakarta,2025-10-01
+GCD-25457,Frozen,Yogyakarta,2025-10-01
 GCD-25503,Blacklisted,Palembang,2025-10-03
 GCD-7879,Blacklisted,Serang,2025-10-03
 GCD-25514,Active,Palembang,2025-10-06
@@ -2308,7 +2308,7 @@ GCD-20026,Blacklisted,Jabodetabek,2026-02-18
 GCD-3470,Active,Jabodetabek,2026-02-18
 GCD-25143,Blacklisted,Serang,2026-02-18
 GCD-18822,Blacklisted,Jabodetabek,2026-02-20
-GCD-25438,Frozen,Batam,2026-02-20
+GCD-25438,Blacklisted,Batam,2026-02-20
 GCD-20178,Active,Bali,2026-02-21
 GCD-19297,Active,Jabodetabek,2026-02-21
 GCD-20975,Active,Batam,2026-02-21
