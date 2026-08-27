@@ -18999,7 +18999,7 @@ SFA22081,GCD-18576,Akdesina Jaya Motor,AKDESINA JAYA MOTOR  (Yodi Akdesina) ,202
 SFA22082,GCD-20565,Himalaya Auto,Himalaya Auto (Mohamad Ridwan Rafiif) ,2026-05-23,98890000,100000000,0.02,90,Closed,6,2026-05-28,Mercedes Benz C200 Cgi At 2012,B1608PAE,Modalku
 SFA22084,GCD-16579,Mobilku Laku,Mobilku Laku (Guruh Arya Wicaksana) ,2026-05-23,128140860,129000000,0.024,90,97,97,,Wuling Almaz 1.5 S+ Turbo 4X2 Mt 2021,B2258NQ,Modalku
 SFA22086,GCD-25207,Budi Jaya Mobil,Budi Jaya Mobil (Budi Sucahya) ,2026-05-24,88605440,89600000,0.02,90,Closed,51,2026-07-13,Daihatsu Sigra M 1.0 Mt 2022,W1961SX,Modalku
-SFA22054,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-05-25,89550000,90000000,0.0245,90,95,95,,Honda City E At 2009,B1589KBD,BSS
+SFA22054,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-05-25,89550000,90000000,0.0245,90,Closed,95,2026-08-27,Honda City E At 2009,B1589KBD,BSS
 SFA22055,GCD-25490,Bursa Mobil Serang,Bursa Mobil Serang (MAYA ANGGIYANI ERLINDA) ,2026-05-25,64347229,65069500,0.02,30,95,95,,Toyota Yaris Trd Sportivo 1.5 At 2014,A1054AR,Modalku
 SFA22056,GCD-25490,Bursa Mobil Serang,Bursa Mobil Serang (MAYA ANGGIYANI ERLINDA) ,2026-05-25,28579210,28900000,0.02,30,Closed,36,2026-06-29,Honda City Idsi 1.5 At 2006,A1362WU,Modalku
 SFA22068,GCD-21127,Tubanan Baru Motor,TUBANAN BARU MOTOR (Marmin) ,2026-05-25,71868209,72674900,0.02,30,Closed,32,2026-06-25,Dfsk Glory 560 At 2020,N1689SM,Modalku
@@ -19419,10 +19419,10 @@ SFA22693,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah So
 SFA22694,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-17,60695000,61000000,0.0245,90,42,42,,Toyota Kijang Lgx 1.8 Mt 2004,D1268GV,BSS
 SFA22719,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-07-20,98450550,99000000,0.0245,30,Closed,38,2026-08-26,Mazda Biante 2.0L At 2013,B2358STA,BSS
 SFA22720,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-07-20,53700300,54000000,0.0245,30,Closed,31,2026-08-19,Nissan Livina X Gear 1.5 At 2010,F1411CH,BSS
-SFA22721,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-20,89500500,90000000,0.0245,30,39,39,,Toyota Kijang Innova 2.0 G At 2008,B2918IO,BSS
+SFA22721,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-20,89500500,90000000,0.0245,30,Closed,39,2026-08-27,Toyota Kijang Innova 2.0 G At 2008,B2918IO,BSS
 SFA22722,GCD-8241,Garasi Banana,Garasi Banana (Muhammad Ricky Solin) ,2026-07-20,60792408,61200000,0.024,30,Closed,38,2026-08-26,Toyota Kijang Innova 2.0 G At 2005,F1873BT,BSS
 SFA22725,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-21,94525000,95000000,0.0245,90,Closed,9,2026-07-29,Daihatsu Xenia D 1.0 Mt 2016,B1842UYY,BSS
-SFA22726,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-21,98505000,99000000,0.0245,30,38,38,,Nissan Elgrand 2.5 L At 2008,B2639STG,BSS
+SFA22726,GCD-21097,Garasi Banana 3,Garasi Banana 3 (Tri Muda Rudi Kurniansyah Solin) ,2026-07-21,98505000,99000000,0.0245,30,Closed,38,2026-08-27,Nissan Elgrand 2.5 L At 2008,B2639STG,BSS
 SFA22652,GCD-20901,CV Karunia Lancar Abadi,CV Karunia Lancar Abadi (Kevin Witarto) ,2026-07-22,67050450,67500000,0.024,30,Closed,36,2026-08-26,Toyota Harrier 2.4 At 2010,B1399TCZ,Modalku
 SFA22654,GCD-20901,CV Karunia Lancar Abadi,CV Karunia Lancar Abadi (Kevin Witarto) ,2026-07-22,113985765,114750000,0.024,30,37,37,,Toyota Innova G Diesel 2.5 At 2013,B2104JUN,Modalku
 SFA22666,GCD-21127,Tubanan Baru Motor,TUBANAN BARU MOTOR (Marmin) ,2026-07-22,77639850,78030000,0.024,30,37,37,,Nissan Juke Rx 1.5 At 2014,N1453WW,BSS
